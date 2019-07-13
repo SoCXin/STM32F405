@@ -15,8 +15,6 @@ STM32F405提供了工作频率为168 MHz的Cortex™-M4内核（具有浮点单�
 
 [![sites](SoC/STM32FP.jpg)](https://www.st.com/content/st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-high-performance-mcus/stm32f4-series/stm32f405-415/stm32f405rg.html) 
 
-* SDIO interface是STM32F4系列才配备的
-
 ### [收录资源](https://github.com/sochub/STM32F405)
 
 * [参考文档](docs/)
